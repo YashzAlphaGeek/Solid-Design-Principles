@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Dependency Inversion Principle/src/main/java"/>
+	<classpathentry kind="src" path="Interface Segregation Principle/src/main/java"/>
+	<classpathentry kind="src" path="Liskov Principle/src/main/java"/>
+	<classpathentry kind="src" path="Open Closed Principle/src/main/java"/>
+	<classpathentry kind="src" path="Single Responsibility Principle/src/main/java"/>
+	<classpathentry kind="output" path="Dependency Inversion Principle/target/classes"/>
+</classpath>
